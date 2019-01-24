@@ -1,1 +1,25 @@
 
+[submodule "go"]
+	path = go
+	url = https://github.com/l7l1l0l/TarsGo
+[submodule "cpp"]
+	path = cpp
+	url = https://github.com/l7l1l0l/TarsCpp
+[submodule "web"]
+	path = web
+	url = https://github.com/l7l1l0l/TarsWeb
+[submodule "tup"]
+	path = tup
+	url = https://github.com/l7l1l0l/TarsTup
+[submodule "php"]
+	path = php
+	url = https://github.com/l7l1l0l/TarsPHP
+[submodule "framework"]
+	path = framework
+	url = https://github.com/l7l1l0l/TarsFramework
+[submodule "jave"]
+	path = jave
+	url = https://github.com/l7l1l0l/TarsJava
+[submodule "nodejs"]
+	path = nodejs
+	url = https://github.com/l7l1l0l/Tars.js
